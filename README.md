@@ -17,15 +17,15 @@
 *(Note: Please upload your screenshots to a `screenshots` folder in the repository or replace these links with the GitHub uploaded image URLs)*
 
 ### Dashboard
-![Dashboard Overview] <img width="2849" height="1629" alt="image" src="https://github.com/user-attachments/assets/1ff809f9-8a2c-4ddf-b5b1-300cba5cad48"/>
+[Dashboard Overview] <img width="2849" height="1629" alt="image" src="https://github.com/user-attachments/assets/1ff809f9-8a2c-4ddf-b5b1-300cba5cad48"/>
 
 
 ### District Deep-Dive
-![District Analysis] <img width="2852" height="1626" alt="image" src="https://github.com/user-attachments/assets/c11e6c8f-9587-45ab-a970-7f352d8911fc"/>
+[District Analysis] <img width="2852" height="1626" alt="image" src="https://github.com/user-attachments/assets/c11e6c8f-9587-45ab-a970-7f352d8911fc"/>
 
 
 ### Trends & Forecasting
-![Growth Trends] <img width="2860" height="1626" alt="image" src="https://github.com/user-attachments/assets/9ed9fdee-447a-4363-9368-97520fe2aead" />
+[Growth Trends] <img width="2860" height="1626" alt="image" src="https://github.com/user-attachments/assets/9ed9fdee-447a-4363-9368-97520fe2aead" />
 
 
 ## 🛠️ Technology Stack
