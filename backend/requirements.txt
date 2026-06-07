@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+geopandas
+scikit-learn
+sqlalchemy
+psycopg2-binary
+python-multipart
+python-dotenv
+websockets
+fastapi-cache2
+jinja2
